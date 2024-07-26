@@ -23,11 +23,31 @@ This class was taught using Java and JavaFX for the GUI portion of assignments.
 7. JavaFX GUI - Design and create a GUI using JavaFX
 8. Common Datastructures - Create List, Stack, and LinkedList data structures w/o the imported classes
 
+### Debrief
+If I remember correctly, this is actually the second-level CS class I took. I took the equivalent of CS 1301 4x over high school (twice), my brief time at Georgia State (also twice).
+
+With that said, I believe this was my first time really getting to work with Java despite having "used" it for 2 years prior. 
+This class was extremely useful in bringing me exposure to the capabilities of Java and how I should design my code based on the assignment offered. 
+Adding to that, this class was a lot of "firsts" for me.
+
+It was the first time:
+- Working with the Interface class and using **super**
+- Using File I/O operations in any language
+- Working with an imported library
+- Searching through documentation
+- Building and understanding new datastructures
+- Building and understanding new search and sort algorithms
+- Building a GUI (Graphical User Interface)
+
+I didn't enjoy the pace at which the class proceeded, but it was an extremely efficient introduction to how classes at Tech would be structured in terms of pace and workload.
+
+Adding to that, regarding my time using Java before this class, I take responsibility for not having earlier exposure to most of what this class covered prior to the attendance of this class.
+
 ## Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
 
 As such, many assignments **may not include detailed descriptions or solutions**. All assignments, descriptions, solutions, and class files are stored in a privated version of the repo.
 
-The intention of each public class repo is to record my experience and assignments of each class taken.
+If possible, portions of the class will be linked to a seperate readme explaining more about the linked assignment/solution/description/other.
 
-If there exist any honorcode violations or any problems/solutions are in-depth, please contact me.
+If there exist any honorcode violations or any problems/solutions are in-depth, please contact me. The intention of each public class repo is to record my experience and assignments of each class taken.
