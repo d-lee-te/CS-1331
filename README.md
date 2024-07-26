@@ -1,7 +1,7 @@
 # CS 1331 - Introduction to Object-Oriented Programming (Fall 2020)
 I took CS 1331 @ Gatech in the Fall of 2020.
 
-Taught by Suzy Watson.
+Lectured by Suzy Watson.
 
 ## About
 I'm having trouble finding an active link to the Syllabus that's working, so I'll give a brief synopsis of the syllabus.
