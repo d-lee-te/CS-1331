@@ -42,7 +42,7 @@ I didn't enjoy the pace at which the class proceeded, but it was an extremely ef
 
 Adding to that, regarding my time using Java before this class, I take responsibility for not having earlier exposure to most of what this class covered prior to the attendance of this class.
 
-## Disclaimer
+# Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
 
 As such, many assignments **may not include detailed descriptions or solutions**. All assignments, descriptions, solutions, and class files are stored in a private version of the repo.
