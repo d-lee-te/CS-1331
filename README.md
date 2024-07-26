@@ -45,8 +45,8 @@ Adding to that, regarding my time using Java before this class, I take responsib
 ## Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
 
-As such, many assignments **may not include detailed descriptions or solutions**. All assignments, descriptions, solutions, and class files are stored in a privated version of the repo.
+As such, many assignments **may not include detailed descriptions or solutions**. All assignments, descriptions, solutions, and class files are stored in a private version of the repo.
 
-If possible, portions of the class will be linked to a seperate readme explaining more about the linked assignment/solution/description/other.
+If possible, portions of the class will be linked to a separate readme explaining more about the linked assignment/solution/description/other.
 
 If there exist any honorcode violations or any problems/solutions are in-depth, please contact me. The intention of each public class repo is to record my experience and assignments of each class taken.
