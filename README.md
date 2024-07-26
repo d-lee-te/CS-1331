@@ -49,4 +49,4 @@ As such, many assignments **may not include detailed descriptions or solutions**
 
 If possible, portions of the class will be linked to a separate readme explaining more about the linked assignment/solution/description/other.
 
-If there exist any honorcode violations or any problems/solutions are in-depth, please contact me. The intention of each public class repo is to record my experience and assignments of each class taken.
+If there exist any honorcode violations or any problems/solutions are *too* in-depth, please contact me. The intention of each public class repo is to record my experience and assignments of each class taken.
