@@ -15,7 +15,7 @@ This class was taught using Java and JavaFX for the GUI portion of assignments.
 4. Understand and apply event-driven programming principles in graphical user interface (GUI) programs.
 
 ### Assignments
-1. Classes - Encapulsation, object equality, and **this** keyword usage\
+1. Classes - Encapulsation, object equality, and **this** keyword usage
 2. Inheritence and Hierarchies - **Super** keyword usage, **private** keyword usage, and constructors
 3. Abstract vs Interface classes
 4. Comparable Interface - Implenting Comparable interface, 2 sorting algorithms, and 2 search algorithms
