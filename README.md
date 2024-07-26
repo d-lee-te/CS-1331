@@ -1,9 +1,8 @@
 # CS 1331 - Introduction to Object-Oriented Programming (Fall 2020)
+I took CS 1331 @ Gatech in the Fall of 2020.
 
 ## About
 I'm having trouble finding an active link to the Syllabus that's working, so I'll give a brief synopsis of the syllabus.
-
-I took CS 1331 @ Gatech in the Fall of 2020.
 
 This class was taught using Java and JavaFX for the GUI portion of assignments.
 
