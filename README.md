@@ -4,7 +4,7 @@ I took CS 1331 @ Gatech in the Fall of 2020.
 Lectured by Suzy Watson.
 
 ## About
-[Official course listing page](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201302&subj_code_in=CS&crse_numb_in=1331)
+[Official course listing page](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201302&subj_code_in=CS&crse_numb_in=1331).
 
 This class was taught using Java and JavaFX for the GUI portion of assignments.
 
